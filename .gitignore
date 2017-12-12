@@ -1,0 +1,5 @@
+.DS_Store
+logs/
+build/
+dist/
+node_modules/
